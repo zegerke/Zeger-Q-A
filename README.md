@@ -20,7 +20,8 @@ answer in an unordered list
 + green
 + purple
 
-What is your favorite game? (put your answer in red)
+What is your favorite season?(answer in italic and strikethrough)
+~~_summer and spring
 
 
 
