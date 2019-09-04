@@ -1,7 +1,7 @@
 # Zeger-Q-A
 What is your favorite animal( strikethrough your answer)
 
-~~kangoeroe~~
+~~Zeekomkommer~~
 
 What are you eating tonight?
  answer in a table and in _italic_
@@ -21,7 +21,7 @@ answer in an unordered list
 + purple
 
 What is your favorite season?(answer in italic and strikethrough)
-~~_summer and spring_~~
+~~_Winter_~~
 
 
 
