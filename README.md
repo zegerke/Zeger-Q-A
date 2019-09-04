@@ -8,7 +8,7 @@ What are you eating tonight?
 
 |what|im|eating|
 |---|---|---|
-|im|eating|_lasagna_|
+|_im_|_eating_|_lasagna_|
 
 Where do you live? (answer in bold)
 __hasselt__
