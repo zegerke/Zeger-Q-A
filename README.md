@@ -6,8 +6,9 @@ What is your favorite animal( strikethrough your answer)
 What are you eating tonight?
  answer in a table and in _italic_
 
-|_lasagna_|...|
-|...|...|
+|what|im|eating|
+|---|---|---|
+|im|eating|_lasagna_|
 
 Where do you live? (answer in bold)
 __hasselt__
@@ -15,9 +16,9 @@ __hasselt__
 what are your favorite colors? 
 answer in an unordered list
 
-*red
-*green
-*purple
++red
++green
++purple
 
 What is your favorite game? (put your answer in red)
 
