@@ -21,7 +21,7 @@ answer in an unordered list
 + purple
 
 What is your favorite season?(answer in italic and strikethrough)
-~~_summer and spring
+~~_summer and spring_~~
 
 
 
