@@ -16,11 +16,9 @@ __hasselt__
 what are your favorite colors? 
 answer in an unordered list
 
-+red
-
-+green
-
-+purple
++ red
++ green
++ purple
 
 What is your favorite game? (put your answer in red)
 
